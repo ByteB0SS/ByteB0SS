@@ -1,57 +1,57 @@
-<!-- HEADER -->
-<h1 align="center" style="font-size:42px;">🚀 Rubem Ernesto</h1>
-<p align="center" style="font-size:18px;">
+<!-- ========================= -->
+<!--        HERO ZONE         -->
+<!-- ========================= -->
+<h1 align="center" style="font-size:48px;">⚡ Rubem Ernesto</h1>
+
+<p align="center" style="font-size:20px;">
   <b>Full Stack Developer</b><br/>
   NestJS • Next.js • Prisma • PostgreSQL
 </p>
 
 <p align="center">
-  <i>Construindo soluções modernas, escaláveis e bem estruturadas.</i>
+  <i>Não escrevo código. Eu construo sistemas.</i>
 </p>
 
 <br/>
 
-<!-- HERO CARD -->
-<table align="center" width="90%" cellpadding="20">
+<table align="center" width="92%" cellpadding="24">
   <tr>
-    <td style="border-radius:16px; border:1px solid #30363d;">
-      <h2>👋 Quem sou eu</h2>
+    <td style="border:1px solid #30363d; border-radius:20px;">
+      <h2>🧠 Mentalidade</h2>
       <p>
-        Sou desenvolvedor <b>Full Stack</b> focado em aplicações web modernas,
-        com forte atenção à arquitetura, performance e código limpo.
-        Trabalho principalmente com <b>NestJS</b> no back-end,
-        <b>Next.js</b> no front-end e <b>Prisma</b> para bancos de dados.
+        Desenvolvedor <b>Full Stack</b> focado em performance, arquitetura limpa
+        e soluções escaláveis. Cada linha de código tem um propósito.
+        Especializado em <b>NestJS</b>, <b>Next.js</b> e <b>Prisma</b>,
+        com forte base em bancos de dados relacionais.
       </p>
     </td>
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<!-- STACK TITLE -->
-<h2 align="center">💻 Minha Stack</h2>
+<!-- ========================= -->
+<!--        STACK GRID        -->
+<!-- ========================= -->
+<h2 align="center">🧩 Stack Principal</h2>
 
-<!-- STACK CARDS -->
-<table width="100%" cellpadding="15">
+<table width="100%" cellpadding="18">
   <tr>
-    <td width="33%" style="border:1px solid #30363d; border-radius:16px;">
-      <h3>🔧 Back-end</h3>
-      <p>
-        ⚙️ APIs escaláveis e seguras
-      </p>
+    <td width="33%" style="border:1px solid #30363d; border-radius:20px;">
+      <h3>⚙️ Back-end</h3>
+      <p><i>Arquitetura sólida & APIs robustas</i></p>
       <ul>
         <li>NestJS</li>
         <li>Node.js</li>
         <li>TypeScript</li>
         <li>Prisma ORM</li>
+        <li>JWT Authentication</li>
       </ul>
     </td>
 
-    <td width="33%" style="border:1px solid #30363d; border-radius:16px;">
+    <td width="33%" style="border:1px solid #30363d; border-radius:20px;">
       <h3>🎨 Front-end</h3>
-      <p>
-        🖥️ Interfaces modernas e responsivas
-      </p>
+      <p><i>Experiência moderna & performance</i></p>
       <ul>
         <li>Next.js</li>
         <li>React</li>
@@ -61,90 +61,97 @@
       </ul>
     </td>
 
-    <td width="33%" style="border:1px solid #30363d; border-radius:16px;">
+    <td width="33%" style="border:1px solid #30363d; border-radius:20px;">
       <h3>🗄️ Database</h3>
-      <p>
-        🧠 Dados bem modelados e performáticos
-      </p>
+      <p><i>Dados bem pensados escalam melhor</i></p>
       <ul>
         <li>PostgreSQL</li>
         <li>MySQL</li>
-        <li>Prisma</li>
+        <li>Modelagem Relacional</li>
+        <li>Prisma Migrations</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<!-- SKILLS -->
-<h2 align="center">🛠️ Skills & Conceitos</h2>
+<!-- ========================= -->
+<!--        POWER SKILLS      -->
+<!-- ========================= -->
+<h2 align="center">🔥 Power Skills</h2>
 
-<table width="100%" cellpadding="15">
+<table width="100%" cellpadding="18">
   <tr>
-    <td width="50%" style="border:1px solid #30363d; border-radius:16px;">
+    <td width="50%" style="border:1px solid #30363d; border-radius:20px;">
       <ul>
-        <li>APIs REST</li>
-        <li>JWT Authentication</li>
-        <li>Docker (básico)</li>
-        <li>Git & GitHub</li>
-      </ul>
-    </td>
-
-    <td width="50%" style="border:1px solid #30363d; border-radius:16px;">
-      <ul>
-        <li>SQL & ORM</li>
-        <li>MVC</li>
+        <li>APIs REST escaláveis</li>
         <li>Clean Architecture</li>
-        <li>Boas práticas de código</li>
+        <li>MVC & Domain Logic</li>
+        <li>SQL avançado</li>
       </ul>
     </td>
-  </tr>
-</table>
 
-<br/>
-
-<!-- WHAT I DO -->
-<h2 align="center">📌 O que eu entrego</h2>
-
-<table width="90%" align="center" cellpadding="15">
-  <tr>
-    <td style="border:1px solid #30363d; border-radius:16px;">
+    <td width="50%" style="border:1px solid #30363d; border-radius:20px;">
       <ul>
-        <li>Aplicações Full Stack completas</li>
-        <li>Back-end robusto e escalável</li>
-        <li>Front-end moderno e performático</li>
-        <li>Integração total Front ↔ Back</li>
-        <li>Código limpo, organizado e sustentável</li>
+        <li>Docker (base sólida)</li>
+        <li>Git & GitHub</li>
+        <li>Boas práticas de segurança</li>
+        <li>Código limpo e legível</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<!-- CONTACT -->
-<h2 align="center">🌍 Conecte-se comigo</h2>
+<!-- ========================= -->
+<!--        WHAT I BUILD      -->
+<!-- ========================= -->
+<h2 align="center">🏗️ O que eu construo</h2>
 
-<table width="100%" cellpadding="15">
+<table align="center" width="92%" cellpadding="20">
   <tr>
-    <td width="50%" style="border:1px solid #30363d; border-radius:16px;" align="center">
-      <b>GitHub</b><br/><br/>
+    <td style="border:1px solid #30363d; border-radius:20px;">
+      <ul>
+        <li>Aplicações Full Stack do zero à produção</li>
+        <li>Back-end seguro, modular e escalável</li>
+        <li>Front-end rápido, responsivo e moderno</li>
+        <li>Integração total Front ↔ Back</li>
+        <li>Sistemas prontos para crescer</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- ========================= -->
+<!--        CONTACT ZONE      -->
+<!-- ========================= -->
+<h2 align="center">🌍 Vamos construir algo sério</h2>
+
+<table width="100%" cellpadding="20">
+  <tr>
+    <td width="50%" align="center" style="border:1px solid #30363d; border-radius:20px;">
+      <h3>🐙 GitHub</h3>
       <a href="https://github.com/teu-username">
         github.com/teu-username
       </a>
     </td>
 
-    <td width="50%" style="border:1px solid #30363d; border-radius:16px;" align="center">
-      <b>LinkedIn</b><br/><br/>
+    <td width="50%" align="center" style="border:1px solid #30363d; border-radius:20px;">
+      <h3>💼 LinkedIn</h3>
       <i>Em breve</i>
     </td>
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<!-- FOOTER -->
-<p align="center">
-  <b>🚀 Always building. Always improving.</b>
+<!-- ========================= -->
+<!--        FINAL LINE        -->
+<!-- ========================= -->
+<p align="center" style="font-size:16px;">
+  <b>⚡ Code with purpose. Build for scale.</b>
 </p>
